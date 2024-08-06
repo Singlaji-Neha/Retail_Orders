@@ -9,7 +9,7 @@ Retail Orders Analysis is designed to help retailers understand their order data
 
 Features
 
-Data Extraction: SQL scripts to extract data from various databases.
-Data Transformation: Python scripts to clean and transform data for analysis.
-Data Analysis: Python scripts for analyzing sales trends, customer behavior, and inventory management.
-Data Visualization: Generate visual reports using libraries like Matplotlib and Seaborn
+- Data Extraction: SQL scripts to extract data from various databases.
+- Data Transformation: Python scripts to clean and transform data for analysis.
+- Data Analysis: Python scripts for analyzing sales trends, customer behavior, and inventory management.
+- Data Visualization: Generate visual reports using libraries like Matplotlib and Seaborn
